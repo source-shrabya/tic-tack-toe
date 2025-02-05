@@ -49,7 +49,7 @@ def ask_user():
                     continue 
             
         except(ValueError, IndexError):
-            print("Invalid Input. Plase enter the number from 0 to 2.")
+            print("Invalid Input. Plase enter the number from 0 to 2. Hello ")
 
 ask_user()
 
